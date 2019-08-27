@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumGRID_withDOCKER", "SeleniumGRID_withDOCKER.csproj", "{429EE26B-6FE2-47DE-BF24-066FC4CC5124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429EE26B-6FE2-47DE-BF24-066FC4CC5124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429EE26B-6FE2-47DE-BF24-066FC4CC5124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429EE26B-6FE2-47DE-BF24-066FC4CC5124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429EE26B-6FE2-47DE-BF24-066FC4CC5124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E29731-2856-4DE2-A907-39C4B2498BC3}
+	EndGlobalSection
+EndGlobal
