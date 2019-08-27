@@ -12,3 +12,4 @@ C:\Users\dgpreciado\source\repos\SeleniumGRID_withDOCKER\bin\Debug\netcoreapp2.1
 C:\Users\dgpreciado\source\repos\SeleniumGRID_withDOCKER\bin\Debug\netcoreapp2.1\SeleniumGRID_withDOCKER.pdb
 C:\Users\dgpreciado\source\repos\SeleniumGRID_withDOCKER\obj\Debug\netcoreapp2.1\SeleniumGRID_withDOCKER.dll
 C:\Users\dgpreciado\source\repos\SeleniumGRID_withDOCKER\obj\Debug\netcoreapp2.1\SeleniumGRID_withDOCKER.pdb
+C:\Users\dgpreciado\source\repos\SeleniumGRID_withDOCKER\obj\Debug\netcoreapp2.1\SeleniumGRID_withDOCKER.csprojAssemblyReference.cache
